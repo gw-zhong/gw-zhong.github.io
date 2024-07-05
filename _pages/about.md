@@ -52,7 +52,7 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 # 📖 Educations
 - *2021.09 - 2024.06*, Master of Computer Science and Technology, Zhejiang University of Technology, Hangzhou, China
   - Supervised by [Prof. Ruohong Huan](https://homepage.zjut.edu.cn/hrh/)
-- *2017.09 - 2021.06*, Bachelor of Engineering in Software Engineering, Zhejiang University of Technology, Hangzhou, China
+- *2017.09 - 2021.06*, Bachelor of Electronic Science and Technology, Zhejiang University of Technology, Hangzhou, China
 
 <!--
 # 💻 Internships

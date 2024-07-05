@@ -41,7 +41,7 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Master's Thesis Award
+- *2024.06* School-level Outstanding Master's Thesis Award
 - *2023.09* Postgraduate Second-Class Scholarship (Third Semester of Graduate Studies)
 - *2022.09* Postgraduate Second-Class Scholarship (Second Semester of Graduate Studies)
 - *2020.09* School-level Second-Class Academic Scholarship (Junior Year)

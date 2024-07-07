@@ -42,12 +42,10 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 
 # 🎖 Honors and Awards
 - *2024.06* School-level Outstanding Master's Thesis Award
-- *2023.09* Postgraduate Second-Class Scholarship (Third Semester of Graduate Studies)
-- *2022.09* Postgraduate Second-Class Scholarship (Second Semester of Graduate Studies)
 - *2020.09* School-level Second-Class Academic Scholarship (Junior Year)
 - *2019.09* School-level Second-Class Academic Scholarship (Sophomore Year)
-- *2019.06* The 3rd Prize in the Zhejiang Province Advanced Mathematics Competition.
-- *2019.01* The 2nd Prize in the Zhejiang Province Physics Innovation Competition. 
+- *2019.06* The 3rd Prize in the Zhejiang Province Advanced Mathematics Competition
+- *2019.01* The 2nd Prize in the Zhejiang Province Physics Innovation Competition
 
 # 📖 Educations
 - *2021.09 - 2024.06*, Master of Computer Science and Technology, Zhejiang University of Technology, Hangzhou, China

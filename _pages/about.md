@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am now an incoming PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/). I will be supervised by [Prof. Yun Pan](https://person.zju.edu.cn/panyun/0.html).
 
-My master's research interest includes Multimodal Sentiment Analysis and Natural Language Processing. During my PhD studies, my research direction may be medical image processing.
+My master's research interest includes Multimodal Sentiment Analysis and Natural Language Processing. During my PhD studies, my research interest may be Medical Image Processing.
 
 
 # 🔥 News
@@ -41,7 +41,7 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Master's Thesis Award from Zhejiang University of Technology
+- *2024.06* Outstanding Master's Thesis Award of Zhejiang University of Technology
 - *2020.09* School-level Second-Class Academic Scholarship (Junior Year)
 - *2019.09* School-level Second-Class Academic Scholarship (Sophomore Year)
 - *2019.06* The 3rd Prize in the Zhejiang Province Advanced Mathematics Competition

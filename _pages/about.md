@@ -41,7 +41,7 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 </div>
 
 # 🎖 Honors and Awards
-- *2024.07* Outstanding Master's Thesis Award of Zhejiang University of Technology
+- *2024.07* Outstanding Master's Thesis Award of Zhejiang University of Technology (Top 4%)
 - *2020.09* School-level Second-Class Academic Scholarship (Junior Year)
 - *2019.09* School-level Second-Class Academic Scholarship (Sophomore Year)
 - *2019.06* The 3rd Prize in the Zhejiang Province Advanced Mathematics Competition

@@ -35,7 +35,7 @@ My master's research interest includes Multimodal Sentiment Analysis and Natural
 
 Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 
-[**Code**](https://github.com/gw-zhong/UniMF) | <strong>JCR Q1 Paper</strong>
+[**Code**](https://github.com/gw-zhong/UniMF) | <strong>CCF B Paper</strong>
 - IEEE Transactions on Multimedia, vol. 26, pp. 5753-5768, 2024, doi: 10.1109/TMM.2023.3338769.
 </div>
 </div>

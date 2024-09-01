@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now an incoming PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/). I will be supervised by [Prof. Yun Pan](https://person.zju.edu.cn/panyun/0.html).
+I am now a PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/). I will be supervised by [Prof. Yun Pan](https://person.zju.edu.cn/panyun/0.html).
 
 My master's research interest includes Multimodal Sentiment Analysis and Natural Language Processing. During my PhD studies, my research interest may be Medical Image Processing.
 

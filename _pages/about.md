@@ -24,8 +24,8 @@ My master's research interest includes Multimodal Sentiment Analysis and Natural
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉 New Journal Paper **_TriSAT: Trimodal Representation Learning for Multimodal Sentiment Analysis_** Accepted by IEEE/ACM Transactions on Audio, Speech and Language Processing.
-- *2023.11*: &nbsp; New Journal Paper **_UniMF: A Unified Multimodal Framework for Multimodal Sentiment Analysis in Missing Modalities and Unaligned Multimodal Sequences_** Accepted by IEEE Transactions on Multimedia.
+- *2024.09*: &nbsp;🎉 New journal paper **_TriSAT: Trimodal Representation Learning for Multimodal Sentiment Analysis_** accepted by IEEE/ACM Transactions on Audio, Speech and Language Processing.
+- *2023.11*: &nbsp; New journal paper **_UniMF: A Unified Multimodal Framework for Multimodal Sentiment Analysis in Missing Modalities and Unaligned Multimodal Sequences_** accepted by IEEE Transactions on Multimedia.
 
 # 📝 Publications 
 - 🎓During My Master's Research Program

@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/). I will be supervised by [Prof. Yun Pan](https://person.zju.edu.cn/panyun/0.html).
+I am now a PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/), supervised by [Prof. Yun Pan](https://person.zju.edu.cn/panyun/0.html).
 
 My master's research interest includes Multimodal Sentiment Analysis and Natural Language Processing. During my PhD studies, my research interest may be Medical Image Processing.
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉 New journal paper **_TriSAT: Trimodal Representation Learning for Multimodal Sentiment Analysis_** accepted by IEEE/ACM Transactions on Audio, Speech and Language Processing.
-- *2023.11*: &nbsp; New journal paper **_UniMF: A Unified Multimodal Framework for Multimodal Sentiment Analysis in Missing Modalities and Unaligned Multimodal Sequences_** accepted by IEEE Transactions on Multimedia.
+- *2024.09*: &nbsp;🎉 New journal paper **_TriSAT: Trimodal Representation Learning for Multimodal Sentiment Analysis_** accepted by IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP).
+- *2023.11*: &nbsp; New journal paper **_UniMF: A Unified Multimodal Framework for Multimodal Sentiment Analysis in Missing Modalities and Unaligned Multimodal Sequences_** accepted by IEEE Transactions on Multimedia (TMM).
 
 # 📝 Publications 
 - 🎓During My Master's Research Program

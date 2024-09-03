@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now a PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/), supervised by [Prof. Yun Pan](https://person.zju.edu.cn/panyun/0.html).
+I am now a PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/).
 
 My master's research interest includes Multimodal Sentiment Analysis and Natural Language Processing. During my PhD studies, my research interest may be Medical Image Processing.
 
@@ -49,6 +49,8 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 - *2019.01* The 2nd Prize in the Zhejiang Province Physics Innovation Competition
 
 # 📖 Educations
+- *2024.09 - now*, working toward my PhD, Zhejiang University, Hangzhou, China
+  - Supervised by [Prof. Yun Pan](https://person.zju.edu.cn/panyun/0.html)
 - *2021.09 - 2024.06*, Master of Computer Science and Technology, Zhejiang University of Technology, Hangzhou, China
   - Supervised by [Prof. Ruohong Huan](https://homepage.zjut.edu.cn/hrh/)
 - *2017.09 - 2021.06*, Bachelor of Electronic Science and Technology, Zhejiang University of Technology, Hangzhou, China

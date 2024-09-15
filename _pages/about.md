@@ -24,8 +24,9 @@ My master's research interest is Multimodal Sentiment Analysis. During my PhD st
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉 New journal paper **_MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis_** accepted by IEEE Transactions on Multimedia (TMM).
 - *2024.09*: &nbsp;🎉 New journal paper **_TriSAT: Trimodal Representation Learning for Multimodal Sentiment Analysis_** accepted by IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP).
-- *2023.11*: &nbsp; New journal paper **_UniMF: A Unified Multimodal Framework for Multimodal Sentiment Analysis in Missing Modalities and Unaligned Multimodal Sequences_** accepted by IEEE Transactions on Multimedia (TMM).
+- *2023.11*: New journal paper **_UniMF: A Unified Multimodal Framework for Multimodal Sentiment Analysis in Missing Modalities and Unaligned Multimodal Sequences_** accepted by IEEE Transactions on Multimedia (TMM).
 
 # 📝 Publications 
 - 🎓During My Master's Research Program

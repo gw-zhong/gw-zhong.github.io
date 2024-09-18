@@ -30,6 +30,18 @@ My master's research interest is Multimodal Sentiment Analysis. During my PhD st
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Multimedia</div><img src='images/muldef.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis
+
+Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
+
+[**Code**](https://github.com/gw-zhong/MulDeF) | <strong>CCF B Paper</strong>
+- IEEE Transactions on Multimedia.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE/ACM Transactions on Audio, Speech and Language Processing</div><img src='images/trisat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,6 +53,7 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 - IEEE/ACM Transactions on Audio, Speech and Language Processing, doi: 10.1109/TASLP.2024.3458812.
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Multimedia</div><img src='images/unimf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

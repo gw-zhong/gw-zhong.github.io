@@ -50,7 +50,7 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 
 [**Code**](https://github.com/gw-zhong/TriSAT) | <strong>CCF B Paper</strong>
-- IEEE/ACM Transactions on Audio, Speech and Language Processing, doi: 10.1109/TASLP.2024.3458812.
+- IEEE/ACM Transactions on Audio, Speech and Language Processing, vol. 32, pp. 4105-4120, 2024, doi: 10.1109/TASLP.2024.3458812.
 </div>
 </div>
 

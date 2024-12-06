@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am now a PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/).
 
-My master's research interest is Multimodal Sentiment Analysis. During my PhD studies, my research interest is Artificial Intelligence in Medicine.
+My research interests are Multimodal Learning and Affective Computing.
 
 
 # 🔥 News

@@ -33,12 +33,12 @@ My research interests are Multimodal Learning and Affective Computing.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Multimedia</div><img src='images/muldef.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis
+[MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis](https://ieeexplore.ieee.org/document/10812853)
 
 Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 
 [**Code**](https://github.com/gw-zhong/MulDeF) | <strong>CCF B Paper</strong>
-- IEEE Transactions on Multimedia.
+- IEEE Transactions on Multimedia, doi: 10.1109/TMM.2024.3521836.
 </div>
 </div>
 

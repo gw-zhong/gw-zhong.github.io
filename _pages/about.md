@@ -22,6 +22,8 @@ I am now a PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE]
 
 My research interests are Multimodal Learning and Affective Computing.
 
+<a href='https://scholar.google.com/citations?user=QPW7iusAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉 New journal paper **_MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis_** accepted by IEEE Transactions on Multimedia (TMM).

@@ -26,12 +26,25 @@ My research interests are Multimodal Learning and Affective Computing.
 
 
 # 🔥 News
+- *2025.06*: New arXiv paper **_Towards Robust Multimodal Emotion Recognition under Missing Modalities and Distribution Shifts_** has been submitted to IEEE Transactions on Affective Computing (TAC).
 - *2024.09*: &nbsp;🎉 New journal paper **_MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis_** accepted by IEEE Transactions on Multimedia (TMM).
 - *2024.09*: &nbsp;🎉 New journal paper **_TriSAT: Trimodal Representation Learning for Multimodal Sentiment Analysis_** accepted by IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP).
 - *2023.11*: New journal paper **_UniMF: A Unified Multimodal Framework for Multimodal Sentiment Analysis in Missing Modalities and Unaligned Multimodal Sequences_** accepted by IEEE Transactions on Multimedia (TMM).
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cider.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Robust Multimodal Emotion Recognition under Missing Modalities and Distribution Shifts](https://arxiv.org/abs/2506.10452)
+
+**Guowei Zhong**, Ruohong Huan, Mingzhen Wu, Ronghua Liang, Peng Chen
+
+[**Code**](https://github.com/gw-zhong/CIDer) | <strong>arXiv Paper</strong>
+- arXiv preprint, arXiv:2506.10452.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Multimedia</div><img src='images/muldef.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,7 +53,7 @@ My research interests are Multimodal Learning and Affective Computing.
 Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
 
 [**Code**](https://github.com/gw-zhong/MulDeF) | <strong>CCF B Paper</strong>
-- IEEE Transactions on Multimedia, doi: 10.1109/TMM.2024.3521836.
+- IEEE Transactions on Multimedia, vol. 27, pp. 2304-2319, 2025, doi: 10.1109/TMM.2024.3521836.
 </div>
 </div>
 

@@ -20,7 +20,7 @@ redirect_from:
 # Welcome! 
 I am now a PhD student at [Zhejiang University](https://www.zju.edu.cn/), [ISEE](http://www.isee.zju.edu.cn/).
 
-My research interests are Multimodal Learning and Affective Computing.
+My research interests are Multimodal Learning, Affective Computing, and AI for Medicine.
 
 <a href='https://scholar.google.com/citations?user=QPW7iusAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 

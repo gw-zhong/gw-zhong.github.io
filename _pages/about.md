@@ -26,12 +26,25 @@ My research interests are Multimodal Learning, Affective Computing, and AI for M
 
 
 # 🔥 News
+- *2025.10*: New arXiv paper **_Calibrating Multimodal Consensus for Emotion Recognition_** has been submitted to IEEE Transactions on Image Processing (TIP).
 - *2025.06*: New arXiv paper **_Towards Robust Multimodal Emotion Recognition under Missing Modalities and Distribution Shifts_** has been submitted to IEEE Transactions on Affective Computing (TAC).
 - *2024.09*: &nbsp;🎉 New journal paper **_MulDeF: A Model-Agnostic Debiasing Framework for Robust Multimodal Sentiment Analysis_** accepted by IEEE Transactions on Multimedia (TMM).
 - *2024.09*: &nbsp;🎉 New journal paper **_TriSAT: Trimodal Representation Learning for Multimodal Sentiment Analysis_** accepted by IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP).
 - *2023.11*: New journal paper **_UniMF: A Unified Multimodal Framework for Multimodal Sentiment Analysis in Missing Modalities and Unaligned Multimodal Sequences_** accepted by IEEE Transactions on Multimedia (TMM).
 
 # 📝 Publications 
+- 🎓During My PhD's Research Program
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cmc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Calibrating Multimodal Consensus for Emotion Recognition](http://arxiv.org/abs/2510.20256)
+
+**Guowei Zhong**, Junjie Li, Huaiyu Zhu, Ruohong Huan, Yun Pan
+
+[**Code**](https://github.com/gw-zhong/CMC) | <strong>arXiv Paper</strong>
+- arXiv preprint, arXiv:2510.20256.
+</div>
+</div>
 - 🎓During My Master's Research Program
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/cider.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,7 +108,5 @@ Ruohong Huan, **Guowei Zhong**, Peng Chen, Ronghua Liang
   - Supervised by [Prof. Ruohong Huan](https://homepage.zjut.edu.cn/hrh/)
 - *2017.09 - 2021.06*, Bachelor of Electronic Science and Technology, Zhejiang University of Technology, Hangzhou, China
 
-<!--
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+# 💻 Social Services
+Served as a reviewer for journals such as TAC, TMM, TASLP, etc.
